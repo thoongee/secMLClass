@@ -12,7 +12,7 @@ Coming soon
 Video presentation of the paper:
 https://www.youtube.com/watch?v=4d3G5AmfbHU&list=PLN2gEfNq4GvfUYJx1aBE7R8bIAXt4JK2P&index=2
 
-Open the solution using Visual Studio 2017. Set the SEALExamples as the start-up project and, for performance reasons, run it in Release mode. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
+The datasets are already included with the uploaded secMLClass.rar package of the project. Just download & extract it and open the solution using Visual Studio 2017 or any other IDE of your choice. Set the SEALExamples as the start-up project and, for performance reasons, run it in Release mode. The implementation uses Microsoft's SEAL library v3.2 found in https://github.com/microsoft/SEAL
 
 For any inqueries you can contact me by artrimq@gmail.com or artrimk@sabanciuniv.edu
   
